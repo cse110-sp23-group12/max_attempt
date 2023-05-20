@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#fortuneCookies {
+    display: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-wrap: wrap; /* Allow cookies to wrap to new lines if there's not enough room */
+}
+.fortuneCookie {  
+    background-image: url('../../assets/images/cookie.png');
+    background-size: cover;
+    width: 15%; 
+    /* height: 100px;  */
+    position: relative;
+    border-radius: 50%;
+    margin: 0 5px; /* Reduce space between cookies */
+    transition: background-image 0.3s;
+}
+.fortuneCookie:hover {
+    background-image: url('../../assets/images/cookiecrack.png');
+}
+.fortuneCookie.open {
+    background-image: url('../../assets/images/cookiepaper.png');
+}
