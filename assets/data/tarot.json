@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "The Sun",
+        "img": "/assets/images/tarots/sun.png",
+        "description": "The Sun represents success, radiance and abundance. It suggests joy and happiness in family, friendship, romance, and professional life. This card encourages you to have confidence in your path."
+    },
+    {
+        "id": 1,
+        "name": "The Moon",
+        "img": "/assets/images/tarots/moon.png",
+        "description": "The Moon symbolizes intuition, dreams, and the unconscious. It suggests a time of uncertainty and potential deception, urging you to trust your instincts. The Moon calls you to be guided by your inner voice."
+    },
+    {
+        "id": 2,
+        "name": "The Star",
+        "img": "../images/star.png",
+        "description": "The Star brings hope, renewed power, and strength to carry on. It's a card of inspiration, promising a time of calm and positivity. The Star suggests a period of spiritual tranquility and positive transformations."
+    },
+    {
+        "id": 3,
+        "name": "The Lovers",
+        "img": "../images/lovers.png",
+        "description": "The Lovers represent relationships, love, and togetherness. But it's also a card of decision making, indicating a strategic crossroad in life. The Lovers call for you to look at your choices carefully."
+    },
+    {
+        "id": 4,
+        "name": "The Fool",
+        "img": "../images/fool.png",
+        "description": "The Fool stands for new beginnings, having faith in the future, and being unafraid to take risks. This card encourages stepping into the unknown with optimism and spontaneity."
+    },
+    {
+        "id": 5,
+        "name": "The World",
+        "img": "../images/world.png",
+        "description": "The World represents completion, achievement, and fulfillment. All of your efforts are finally paying off and you have reached the end of a journey or have completed a major life cycle."
+    },
+    {
+        "id": 6,
+        "name": "The Hermit",
+        "img": "../images/hermit.png",
+        "description": "The Hermit card symbolizes introspection, contemplation, and searching for inner guidance. This card often appears when you need to step back from the outside world and explore your inner experience."
+    },
+    {
+        "id": 7,
+        "name": "Strength",
+        "img": "../images/strength.png",
+        "description": "Strength suggests not just physical abilities, but inner strength and the power of the human spirit. It stands for courage, determination, and inner resilience."
+    },
+    {
+        "id": 8,
+        "name": "The High Priestess",
+        "img": "../images/highpriestess.png",
+        "description": "The High Priestess represents intuition, mystery, and unconscious wisdom. She urges you to trust your instincts and listen to your inner voice."
+    },
+    {
+        "id": 9,
+        "name": "The Emperor",
+        "img": "../images/emperor.png",
+        "description": "The Emperor represents structure, stability, rules and power. He brings a sense of confidence and can suggest important achievements are on the horizon."
+    }
+]
